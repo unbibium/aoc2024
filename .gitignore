@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+# input files are confidential i think
+input.dat
+
